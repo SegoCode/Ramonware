@@ -1,4 +1,4 @@
-<!-- :: Seccion de Batch
+<!-- :: Batch Section
 @Echo OFF
 mode con:cols=50 lines=2
 set pass=SegoCode
