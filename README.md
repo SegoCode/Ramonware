@@ -4,3 +4,4 @@
 
 
 ** You need aescrypt.exe (https://www.aescrypt.com/) for encrypt files
+** RamonDecryptor is not being actively developed
