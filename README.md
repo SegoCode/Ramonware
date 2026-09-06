@@ -18,8 +18,7 @@
 
 > [!NOTE]
 > Experimental research. I take no responsibility for damage, loss, or legal trouble that follows from running or sharing this file.
-
-> [!NOTE]
+> 
 > This repo follows GitHub's [Acceptable Use Policies](https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies), including [Active malware or exploits](https://docs.github.com/en/site-policy/acceptable-use-policies/github-active-malware-or-exploits): dual-use security research, harm disclosed here, AES left commented out, [SECURITY.md](.github/SECURITY.md) for reports. Not attack infrastructure or a malware CDN.
 
 Hi, I'm a ransomware code in batch my name is Ramon
