@@ -23,7 +23,7 @@
 
 Hi, I'm a ransomware code in batch my name is Ramon
 
-I built RamonWare as an experiment in minimum ransomware. You get a disk scan and AES on the matched files. The same .bat then opens a fullscreen HTA lock screen. People copy this file as a template and customize it... Trend Micro published a write-up on one of those forks: https://www.trendmicro.com/vinfo/us/threat-encyclopedia/malware/trojan.bat.ramonware.thjoebc
+I built Ramonware as an experiment as a minimum ransomware. You get a disk scan and AES on the matched files. The same .bat then opens a fullscreen HTA lock screen. People copy this file as a template and customize it... Trend Micro published a write-up on one of those forks: https://www.trendmicro.com/vinfo/us/threat-encyclopedia/malware/trojan.bat.ramonware.thjoebc
 
 
 ## Features
